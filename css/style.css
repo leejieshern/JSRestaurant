@@ -1,0 +1,20 @@
+/*
+this is the comment. 
+primary: #ff4081
+p-light: #ff79b0 
+p-dark: ##c600055
+Secondary: #e676e6
+s-light: #66ffa6
+s-dark: #00b248 
+*/
+body {
+    background-color:#e676e6;
+    color: #66ffa6;
+    
+
+}
+
+h1,
+h2 {
+    font-family: 'Nanum Brush Script', cursive;
+}
